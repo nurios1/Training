@@ -8,3 +8,4 @@ vehicule3 = vehicule(4, 5, 160, "Diesel")
 print(vehicule3.Vitessemoy(vehicule1, vehicule3))
 
 print("hi")
+print("hi")
