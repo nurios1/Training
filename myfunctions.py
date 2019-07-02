@@ -6,3 +6,5 @@ vehicule2 = vehicule(4, 5, 300, "Diesel")
 vehicule3 = vehicule(4, 5, 160, "Diesel")
 
 print(vehicule3.Vitessemoy(vehicule1, vehicule3))
+
+print("hi")
